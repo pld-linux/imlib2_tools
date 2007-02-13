@@ -1,5 +1,5 @@
 Summary:	Clone of ImageMagick command line programs using Imlib2
-Summary(pl.UTF-8):   Klon poleceń z pakietu ImageMagick używający Imlib2
+Summary(pl.UTF-8):	Klon poleceń z pakietu ImageMagick używający Imlib2
 Name:		imlib2_tools
 Version:	0.0.0alpha2
 %define	_snap	20050701
